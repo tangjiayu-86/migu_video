@@ -1,7 +1,9 @@
 央视频道,#genre#
-更新日期: 2026-7-28 11:42:59,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-7-28 12:02:38,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
+CCTV3综艺,http://txycdn7.video.qq.com/1370781402.m3u8?time=1785156158&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJp-7eJ3vPTkotaO_OMYBRQrkNWxuelP1w38w89UWYy1EEaLHERmPHGiGn8BTN0CiBUBcDyuvdD0Vq50AU1ok0Vw6Lz1SnhRtMG_GrUeS-gCfO8Kf6wUSo2WgsD9DtREDL2YLJq6D9kOwfbZWreM8v7ts5Ebbzss0JoGLuRBiIdsxIVDfNPuD8ItrKdEZ65tGQyV01wqQFIvwzE1oEO_JceW1Bpb_WTnQWjVtNZ0VeCyYh5vr4Zqpz_4-OMfG5F-ZrYSBGDVZWAnECc4HSp1Q_XrrNr3YvmRfunMR9SKeDALBuWRL1eOKU8SUxDmvffJvp7ETd50J_NDSdarGelgsI4XnKxMrmsm3gwrYvOR0qK_8WjD-KeU34jyFsXwbAV3bqGoBaIncfhmggGMZS3X4_kTZZ_aifTX-TxJNonZAkK_POMbXbcb_zlPBOYYd0ItSlNvENha1N6OjMH2iJE1nliv6dyVNPkdzrv5j-h06uMFfZfhP7JdghXbprNN9pPjewWap_SPntlNNm19wV5My2mMDCJ6NBVwxFtR_wCq_7SWYM6a&drmtype=0
 CCTV5体育,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=b015b7b7161d3e2bfdc2429234a353e1&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260728113548&Channel_ID=0116_2600034600-99000-201600010015076&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=120.232.211.227&SecurityKey=20260728113548&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f1327b631f9dd1df81b8d27b9948f686&sv=10004&ct=android
+CCTV13新闻,http://pull-hls-f1.douyinliving.com/media/stream-407889897099101010/playlist.m3u8?keeptime=00093a80&wsSecret=bbda0a63768f504a384b3c975c8da401&wsTime=6a66b65d&s_anchor=1&arch_hrchy=s2&major_anchor_level=vip&t_id=037-20260727093732916B99FCDFDDC165AE8D-ofB80N
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -85,11 +87,12 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 江苏地区,#genre#
-海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
+沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
@@ -149,6 +152,7 @@ CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testp
 昌宁县电视台,http://live.ynurl.com/video/s10047-cntv/index.m3u8
 福建地区,#genre#
 海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+龙岩综合,http://stream.lytv.net.cn/2/sd/live.m3u8
 河南地区,#genre#
 济源综合,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 济源综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
@@ -309,6 +313,7 @@ CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 浙江卫视超清,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 江苏卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 深圳卫视超清,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
+天津卫视超清,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 山东卫视超清,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
 辽宁卫视超清,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
