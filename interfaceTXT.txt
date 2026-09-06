@@ -1,8 +1,13 @@
 央视频道,#genre#
-更新日期: 2026-9-6 15:12:15,http://play.kankanlive.com/live/1698234869325962.m3u8
+更新日期: 2026-9-6 18:06:53,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV1综合,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV5体育,http://txycdn.video.qq.com/1369718503.m3u8?time=1788678687&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIHu25yak3bsRltB3Qy9wambssChbUBNGY-eudd6DqiU2EGdsBUTFoIbvB9wjYSVe8icBcAqlBf154zo6tTBr4_S_wkiBq0jMauCbYILhzBG2UmpPcs7JzQvU-f1bhs_7taBzxi3JZBnVR7J-bByH1P5vptitTGEFU_Hou_q9YyUUQpyWC1Ml7WssbzTmze2BewKhLoA4SN3m3xPiwim4vF_cRnm4qFZJ-aPprhxV4lQgqpeCfhJEx4ze6UvOV3iRwOG9whFY-bL-U3GhKkc7IVNIA5HT1jSsarm2_fhd8vyZArqNerbg5QCbU2f6y-StfM5Phz8WM42asIww5WfQIqbJYgh0fjHW3OR7kLvf1s5WUCULuVzYaINuiJ5uRs9mP_SF4ang8xUGUnCZb-hYS-UFwuMR2OitiXzsZpmDghFy37TQeoT2s0G2uuhmcrK0xqP08YGTOXupsuCRHT8QZkm2-YZgmWwbcVXfWwgU2ZUKLTow0fqDzL5C2O3ZvTaLdVTZyfAF7bd-Z_n_pVFmQvfxeyaQXZlcj6i6uHpUlXYljvem&drmtype=0
+CCTV4中文国际,http://txycdn4.video.qq.com/1755787502.m3u8?time=1788654945&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIBX0hqvkkYQsyhddbbwf9LJZr1oLDcruhdcKHjY1bK11ECw-XS92udNsmSsHMYhpg1oBcFOw7N2SCJKC_-QTrTkFZyW8lKgXY3KKucfs_5rVkrySOSiGijooKiNKM90UpByVFgufJv95K7r_jCwH4JHQgL5G-RUEMQT5OWGdiCHdU7OAQgOmqIUvreCArZv6znVmHzBTaUPWsnUY5bsbhMF2bQvFpeM5PzvjdQ869XblH8ftjPkRdM4KppSkC5abREUYULPUABchfyBKVNK-Fs04lkOtDBEMXJjv__RkU8NqIt_rEa5Pj9XdM8YxYWqSJUAO3XJAOfTh2_xqoFsxn5QFTpYUnXoJlt9NlzmtG5pOwaZDXXiiWo01BBw_ElYqTdjLDWcA5TGloEi96jcuc8-0eS_LaTW6D8TzJg_mkJ01Ff2Ko7EKf-wLvzJ9wLO0TlkrR7brG8scrYhGBp1HW8a6lk6lJw6pQwmzW-u9wF787R8nYO9weN96YpwrfTnGwJHZzOu8QZXbC1VluGrChpoicJunHiRyP81uTuAhit-_FjUp&drmtype=0
+CCTV6电影,http://txycdn.video.qq.com/1755771403.m3u8?time=1788678392&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIOq022eeoQZkjRssx0WPr0qqoUY3PU49F8vCPdfumm8PEKitv6JPehxU9371fXDNWdoBcEE3e0xI_0_fgn_b6CVYkMnC9i9Rq9RIcLVousGrmTWAoEgMCNMvmgpC8Mulmpdh7PYz5ZWd8_WpA_86oaz1C71JQDh1TRBrnVksBDcr_fumqE1H9gCZL3Yx1SK_PDdsZhxGnUqo5BEYSeJiz4rkCTD6EyO-ldEHVslvYfuh7c4_Ef69qjR44WSWLTUTLpzPw6Y1CgagEux_T3qjk5MvHscffeDgjSEzVsL_VBjdzSw37PpeD9DW8H0BRsr7xvwqexO1qkDnTqu0WtTR7lRJELC3vSMbVTMKn2AtTaZLudgVbk8cqu0Kqh1bCrsZWaUaM3tL9CHdhrDWSWiSgXjc4uaWh9FHWGSCIfMTgtsIEqkqlHLqWofC0syCxM93YFSyEQCPyYqbEwAanheESshDQBCBUC5bcLURkyIl08y4z3Ghps2_agbLRJx6fzBfZQHPM385Ooz8lvD1XPzmxtmJEzxJqt1espJyVf5koFlSxm3k&drmtype=0
+CCTV6电影,http://txycdn2.video.qq.com/1755771402.m3u8?time=1788654924&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIK2a1DPbSZqaM_fY2tipXO6EULqJqdAH8KN45rYPmCKlENeSjGb9BL9R4KihheQOT0wBcHO05qTkmjKJX6mNt8TKd1Z_WNQwNpxtdmeQdw-_BNKeDJZTyh1D15LxYtnfrO6Jvq9m9822RTJXCtaBnR07Ci_mvwyRkh5qC-8WUxS5KX_lMb-u1tm-_iNH4gzWjS6-i6YzAAFZB8jW5GxaTW3GkFqYG2ft-YnvD9q8fTDLwTiBWZBlcO0tOq_4owTbTdJ87tPx8cD43ZwppEaeqn1dPNkPi9FoCEMNcDh_hDXeneNSjvupTyNdAyPcWR5f3sD3kfYqG4PWmzIe_avNL3rmMup2VohhQRsTJSmzDMhqaWDXZvTCEpTNXTq9YHHEAuWSKW7D3fWvjbjnjN89qM7Om4IQrCQP4wKVyK5HctGYI435NtAWGAVMR9YKzRcMeZEqipSaWbA5NcXJ9FZ1guJt1kOnaJ19viuSnIUbUnbcGjjT_Jq3PJEkMFewb_r2AYSiBiO2GwVo-CVxYKezLdOl-7rx5JNd1RZLEMXV8TnPLOzX&drmtype=0
 CCTV9纪录,http://play.kankanlive.com/live/1698423397390920.m3u8
+CCTV13新闻,http://txycdn.video.qq.com/1369932003.m3u8?time=1788678319&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIOgIBpQ8sr7ir_p4w1tJEoyIiNZSLJwywv0WfqUYedDJEMuyy-cD7aMQJyMVvjDplmMBcGHKR1nmUXJoqBGDC-7qnA0XEPy_W4D-fuJjBR9kEz21y0qyt5uy9GDZsKgFWiv9UGdTmLnwduPwXRzdZlkftayqpJ1RvB-v7ZF-7MTo1jY4WK4SQmSOcQF1WSG6rMp5qeJTS3Kkd3q2IwuE5hPVHAlTP0eXgHLuhiRPxykfoBKqhNeCtvw7roZbBI8cmNT56mdo3-JRTrzSRI5btvWVIfVr68ZEb4jBJfE5e8BbTJ_IauEDIOqod8-5c2bfqAmt0E-DVpIvOSNo84XBVZnSblugBlNHh7n-Xx3jnD6LLPLI8WNybtNOMKbQQlN6ZAY8DWNUrEpCBDsGXbtToFMtkGWRXvbWrk1QtxT5VyUIcRftwLsFiRhjOZJ8dtizijxLAjh6jyiEdGaMiKmUGaKjINfzhudXwyWSt6uKCen5VNPWLRw1WsNmDGEXX9lbX0q-3rx4gN6TfGCAF4OCvuHz7RoqU1ZTc8V7dKeUY8Hwsj6k&drmtype=0
+CCTV13新闻,http://txycdn7.video.qq.com/1369932002.m3u8?time=1788654849&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPKIKjyo9rQUE0vEo_FSHdxQslFHhxfHdVTXDxugWrK6EC8u2nKNlE24jRtpEuEhpMgBcNz3Ef6U2BZUeVEBGYCOwmFFtaoLn8E6WhDbnzPyL4RmI24LZ8rTuF_wsmgpwvRq13XHkhbmVLejcHbj6CYragTyNW38NDQYHFh81rXjIV2h8t6y88qmO5DrioorOrJiNiZYt_K0dUkucODSDcjd6xmvWGoGz6oENHkhgTpDS1OZDofL5b0Xi3FCeTNPACoZnnaGVth6SIwlRh_nBv8jwKh_djQbKGOItxil5xJJClY2b0Bh2pj_5VlzztBnfYYxKeCcwdAd6qxk5sMiR4izM9k06uczA__mWJBdVrq27TujE-Z3l98bpAbCC_YdB-8VOGQQqa9TS0Ed5JJu-pu6srQVzRX1ulr_8iVupbrai6XG1T9iVgmCySRJyUYIS0uL5M01IqQYWKwNJaBtvySBcwmevo8kmDJi4-xooYi8eoHKbRGHPaCTf740eOLh_8XHOSgwKvJtvu6HssXmUqPLj0LbE-5mQoy2aan5N-2uROQQ&drmtype=0
+CCTV15音乐,http://txycdn4.video.qq.com/1370782102.m3u8?time=1788654828&cdn=txycdn&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIKCv-clbvU7wT94Jsjx1PQVkCt0ZK0WGKkQXXMm6gclsEN8ZGtFRGicJsBUvCjys-PcBcAsb1c34jZ1PdEtsmRvcInY7VFGD3i5LISldEw-93455POwJSeqpeRaL4mVvL_Lp0wVG3dTK8Tsbryi8Kb1cFZnrVLHOhDwEVxadP_dP21xtIaelMiIwKvUjq4-fNCJe9iSlQJyfFnn90pFVeUT2eATrc_kaL0tYmwNWd0YfJTNYBS7opxDPTokFXhhCzRFyTmNoDyFyhsyBZXE2eFhvZDDypC139cUTwnn6LomVEFPD8c2lxIT3NksFMkZBD8jVKKXcypj35jmsqZMQlEo6qAke3Oi5pNSM4eRfv4qqVhaSV13hWz4A5G3sXO2WQNv9l_6lBT8nylsDiWkH8g9loxF6YRl2LIMw_8tVL3Q0Luq-mZwjrP4SIydLd2DJF1gUzVSgqwfHTrq2wJvQaWoR8cl-3cC489aNw2OfYKKtPvW9J1Smc_BsiRvrZQrCpfS8E1KI2EEqVhzVH66c8bFMdMzt7LoUiIjKvsl0R7Ek_961&drmtype=0
 CCTV16奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -10,17 +15,18 @@ CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testp
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 卫视频道,#genre#
 湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+江苏卫视,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=1822fa11338dd8933fef451bf2165e97&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260906175800&Channel_ID=0116_2600034600-99000-201600010019922&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=120.232.211.242&SecurityKey=20260906175800&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=86ef5763d8239eb674670d8625b5c226&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=86a02297c969fa9bb97adf82b8e4dd93
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 天津卫视,http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
@@ -34,7 +40,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 湖南地区,#genre#
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
@@ -98,11 +103,14 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 龙泉电视台,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 江苏地区,#genre#
+南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 涟水综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
@@ -274,6 +282,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 宝丰1,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
 新密新闻频道,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
+天津地区,#genre#
+津南电视台,http://play.jinnantv.top/live/JNTV1.m3u8
 甘肃地区,#genre#
 嘉峪关综合,https://play.kankanlive.com/live/1658978094528926.m3u8
 嘉峪关公共,https://play.kankanlive.com/live/1658978141553927.m3u8
